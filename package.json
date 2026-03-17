@@ -1,5 +1,5 @@
 {
-  "version": "0.12.0",
+  "version": "0.12.1",
   "name": "@kmamal/sdl",
   "description": "SDL bindings for Node.js fork of https://github.com/kmamal/node-sdl",
   "keywords": [
